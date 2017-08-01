@@ -5,7 +5,7 @@
   "scripts": {
     "ng": "ng",
     "start": "npm run build && npm run server",
-    "build": "ng build --prod && ng build --prod -app universal --output-hashing=none",
+    "build": "ng build --prod && ng build --prod --app universal --output-hashing=none",
     "test": "echo \"Error: no test... minimal project\" && exit 1",
     "lint": "echo \"Error: no lint... minimal project\" && exit 1",
     "e2e": "echo \"Error: no e2e... minimal project\" && exit 1",
