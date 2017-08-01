@@ -25,7 +25,8 @@ Compared to an empty project created with CLI, new or modified files are :
 - `server.js` (new)
 - `.gitignore` (modified)
 - `package.json` (modified with new scripts and new packages)
-[https://medium.com/@cyrilletuzi/angular-server-side-rendering-in-node-with-express-universal-engine-dce21933ddce](Blog post with details).
+
+[Blog post with details](https://medium.com/@cyrilletuzi/angular-server-side-rendering-in-node-with-express-universal-engine-dce21933ddce)
 
 ## HttpInterceptor for Universal Express engine
 
