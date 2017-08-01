@@ -1,5 +1,4 @@
-import { Injectable, Inject, PLATFORM_ID, Optional } from '@angular/core';
-import { isPlatformServer } from '@angular/common';
+import { Injectable, Inject, Optional } from '@angular/core';
 import { HttpInterceptor, HttpHandler, HttpRequest } from '@angular/common/http';
 
 @Injectable()
