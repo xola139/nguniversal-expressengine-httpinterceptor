@@ -1,8 +1,8 @@
 # nguniversal-expressengine-httpinterceptor
 
-This is an example repo of 2 features :
-- Angular server-side rendering in Node with `@angular/cli` 1.3.0 and `@nguniversal/express-engine`
-- HttpInterceptor to automate absolute URLs in Universal Express engine
+This project is DEPRECATED. It was just a non official example repo of 2 features for early testers :
+- Angular server-side rendering in Node with `@angular/cli` 1.3.0 and `@nguniversal/express-engine` => will be fully automated by CLI 1.6 ;
+- HttpInterceptor to automate absolute URLs in Universal Express engine => will be fixed, issue tracking in [angular/angular#19224](https://github.com/angular/angular/issues/19224)
 
 ## Getting started
 
